@@ -1,0 +1,5 @@
+:HL["/demo-clinica-dental-diaz/_next/static/chunks/3d9vzuo28vah2.css","style"]
+:HL["/demo-clinica-dental-diaz/_next/static/media/c0680f1bdb3a2e90-s.p.1gsd1jahc5dg_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/demo-clinica-dental-diaz/_next/static/media/cb4b92673aedbbad-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"uRbc68vgfPA-x2mw4t0ga","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
